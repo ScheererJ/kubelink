@@ -1,4 +1,4 @@
-module github.com/mandelsoft/kubelink
+module github.com/scheererj/kubelink
 
 go 1.15
 
