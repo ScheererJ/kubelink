@@ -23,8 +23,8 @@ import (
 	"k8s.io/apimachinery/pkg/runtime"
 	utilruntime "k8s.io/apimachinery/pkg/util/runtime"
 
-	"github.com/mandelsoft/kubelink/pkg/apis/kubelink/crds"
-	"github.com/mandelsoft/kubelink/pkg/apis/kubelink/v1alpha1"
+	"github.com/scheererj/kubelink/pkg/apis/kubelink/crds"
+	"github.com/scheererj/kubelink/pkg/apis/kubelink/v1alpha1"
 )
 
 func init() {
